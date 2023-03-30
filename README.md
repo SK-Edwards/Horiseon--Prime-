@@ -6,7 +6,7 @@ This webpage was created using HTML, CSS and Git to be the online face of a worl
 
 ## Installation
 
-N/A
+https://sk-edwards.github.io/Horiseon--Prime-/
 
 ## Usage
 
@@ -14,7 +14,8 @@ N/A
 
 ## Credits
 
-N/A
+https://github.com/coding-boot-camp/urban-octo-telegram ( Challenge source code)
+
 
 ## License
 
