@@ -19,4 +19,4 @@ https://github.com/coding-boot-camp/urban-octo-telegram ( Challenge source code)
 
 ## License
 
-MIT license (refer to repo)
+(refer to repo)
